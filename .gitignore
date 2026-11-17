@@ -1,0 +1,5 @@
+/ESAcontext.md
+.venv/
+data/raw/
+data/processed/
+outputs/
